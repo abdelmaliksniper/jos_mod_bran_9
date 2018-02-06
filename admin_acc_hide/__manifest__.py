@@ -14,7 +14,7 @@
     'website': "",
     'category': 'Generic Modules',
     'version': '1.0',
-    'price': 42.0,
+    'price': 22.0,
     'currency': 'EUR',
     'depends': [
         'mail',
